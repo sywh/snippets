@@ -1,0 +1,2 @@
+- cs231n python numpy tutorial, https://zhuanlan.zhihu.com/p/20878530
+- python documentation: https://docs.python.org/3/library/index.html
